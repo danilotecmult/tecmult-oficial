@@ -10681,6 +10681,17 @@ hr.light {
   background-size: cover; 
 }
 
+@media(max-width: 760px){
+  .img-intro {
+    width: 50%;
+  }
+
+  .position-mobile {
+    margin-top: -20%;
+  }
+  
+}
+
 header.masthead {
   padding-top: 14rem;
   padding-bottom: calc(10rem - 72px);
